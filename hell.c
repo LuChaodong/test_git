@@ -25,3 +25,9 @@ return 0;
 
 
 }
+
+
+void function2()
+{
+	printf("fun2");
+}
