@@ -14,7 +14,11 @@ int main( int argc , char *argv[] )
 	printf("THIRD");
 	printf
 	printf("luchaodong in");
-	printf("Iknowhowto");
+
+
+
+int i;
+printf("Iknowhowto");
 return 0;    
 
 
