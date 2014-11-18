@@ -16,6 +16,8 @@ void fun3()
 	
 }
 
+int uu;
+
 int main( int argc , char *argv[] )
 {
 
