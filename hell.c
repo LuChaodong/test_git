@@ -1,5 +1,11 @@
 #include<stdio.h>
 
+void function1()
+{
+	
+	printf("func");
+}
+
 int main( int argc , char *argv[] )
 {
 
