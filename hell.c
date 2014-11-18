@@ -45,6 +45,11 @@ return 0;
 
 }
 
+void fun10()
+{
+	
+	int i;
+}
 
 void function2()
 {
