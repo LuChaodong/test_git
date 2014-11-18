@@ -5,6 +5,7 @@ int main( int argc , char *argv[] )
 
   int j =0;
   int i ;
+  int g;
   printf("Hello github\n");
   printf("SECOND");
  
