@@ -15,7 +15,7 @@ void fun3()
 	int i;
 	
 }
-
+int aa;
 int main( int argc , char *argv[] )
 {
 
