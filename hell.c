@@ -12,5 +12,9 @@ int main( int argc , char *argv[] )
  	i++;
 
 	printf("THIRD");
+
+	printf("Iknowhowto");
 return 0;    
+
+
 }
