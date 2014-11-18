@@ -6,6 +6,10 @@ void function1()
 	printf("func");
 }
 
+void fun4()
+{
+	int k;
+}
 int main( int argc , char *argv[] )
 {
 
