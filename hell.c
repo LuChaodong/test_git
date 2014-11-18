@@ -10,6 +10,12 @@ void fun4()
 {
 	int k;
 }
+void fun3()
+{
+	int i;
+	
+}
+
 int main( int argc , char *argv[] )
 {
 
